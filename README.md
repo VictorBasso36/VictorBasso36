@@ -9,7 +9,6 @@ Gosto de 🖥Programação Full-Stack 🖥️ e Economia descentralizada ₿ !
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]
 [![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
 [![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
-[![PacoteOFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)]
  
 
