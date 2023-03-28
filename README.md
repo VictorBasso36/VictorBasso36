@@ -9,7 +9,7 @@ um programador Fullstack e designer Web/App especializado em Next.js, Node.js, R
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]
 [![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
 [![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)]
+
  
 
 
