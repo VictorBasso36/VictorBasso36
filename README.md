@@ -1,6 +1,6 @@
 
 ### Sou o Victor Basso !🔥 
-Gosto de 🖥Programação Full-Stack 🖥️ e Economia descentralizada ₿ !
+um programador Fullstack e designer Web/App especializado em Next.js, Node.js, React, Laravel, Javascript, PHP, MySQL, GitHub, Photoshop e Figma. 
 <h1> Minhas Tecnologias </h1>
 
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
