@@ -1,7 +1,25 @@
 
 ### Sou o Victor Basso !🔥 
-um programador Fullstack e designer Web/App especializado em Next.js, Node.js, React, Laravel, Javascript, PHP, MySQL, GitHub, Photoshop e Figma. 
-<h1> Minhas Tecnologias </h1>
+Olá 👋🏼 ! Meu nome é Victor Basso, sou um programador Fullstack Junior e designer Web/App. Adoro criar soluções web e aplicativos inovadores, utilizando códigos e design para expressar minha criatividade e ideias.
+
+<h1>- Front-end:</h1>
+  Next.js, React, HTML, JSX, SEO, CSS, JavaScript, Fetch/Axios, Diversas Bibliotecas de efeitos. 💻💡
+
+<h1>- Back-end:</h1>
+  Laravel, Node.js, MVC, API REST, Strapi, PHP, JavaScript, GitHub. 🚀🔙
+
+<h1>- Banco de dados:</h1>
+  SQL e noSQL (mySQL e MongoDB). 💾
+
+<h1>- Design:</h1>
+  Photoshop e Figma. Aprendendo UI|UX. 🎨💡
+
+
+
+Objetos de estudo no momento:
+⛏️ - Linux e Docker.
+⛏️ - MongoDB.
+⛏️ - Servidores e Segurança.
 
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
