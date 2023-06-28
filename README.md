@@ -1,35 +1,79 @@
 
-### Sou o Victor Basso !🔥 
-Olá 👋🏼 ! Meu nome é Victor Basso, sou um programador Fullstack Junior e designer Web/App. Adoro criar soluções web e aplicativos inovadores, utilizando códigos e design para expressar minha criatividade e ideias.
-
-<h1>- Front-end:</h1>
-  Next.js, React, HTML, JSX, SEO, CSS, JavaScript, Fetch/Axios, Diversas Bibliotecas de efeitos. 💻💡
-
-<h1>- Back-end:</h1>
-  Laravel, Node.js, MVC, API REST, Strapi, PHP, JavaScript, GitHub. 🚀🔙
-
-<h1>- Banco de dados:</h1>
-  SQL e noSQL (mySQL e MongoDB). 💾
-
-<h1>- Design:</h1>
-  Photoshop e Figma. Aprendendo UI|UX. 🎨💡
-
-
-
-Objetos de estudo no momento:
-⛏️ - Linux e Docker.
-⛏️ - MongoDB.
-⛏️ - Servidores e Segurança.
-
-
-
-
-![img](https://thumbs.gfycat.com/BreakableEnchantingHippopotamus-size_restricted.gif)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&theme=synthwave)
-<h1> Redes Sociais </h1>
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-basso-b3090a189/)
-[![whatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511999978633)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) victorbassodev@gmail.com
-
+<div align="center">
+   <h1  align="center">Hi 👋🏼 ! I'm Victor Basso ! </h1> 
+  <h2  align="center">a <span style="color: magenta;">Fullstack developer</span> and an idea generator.</h2>
+  <img src="https://portfolio-victor-basso-dev.vercel.app/_next/image?url=%2Fsticker.webp&w=3840&q=75" alt="Victor Basso" width="140" height="140"/>
+</div>
+<table align="center">
+  <tr>
+    <td>
+      <div align="center">
+        <h3>📚Programming language:</h3>
+         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NB1H5S1P--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/140/Typescript_logo_2020.svg.png" alt="Victor Basso" width="40" height="40"/>
+         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fC8GTFme--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/16/js-badge.png" alt="Victor Basso" width="44" height="44"/>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <h3>👨🏻‍🎨Front-end:</h3>
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G5pvxBp3--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/89/next-js-badge.png" alt="Victor Basso" width="40" height="40"/>
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--TxWa49eH--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/26/react-sticker.png" alt="Victor Basso" width="40" height="40"/>
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1doNXX_7--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/29/graphql-sticker.png" alt="Victor Basso" width="40" height="40"/>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+      <h3>🖥️Back-end:</h3>
+        <img src="https://i0.wp.com/chandanbhagat.com.np/wp-content/uploads/2021/05/1200px-Node.js_logo.svg_.png?resize=640%2C391" alt="Victor Basso" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="Victor Basso" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <h3>💾Database:</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" alt="Victor Basso" width="40" height="40"/>
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="Victor Basso"  height="40"/>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+      <h3>🎨Design UI|UX:</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Victor Basso"  height="40"/>
+        <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="Victor Basso"  height="40"/>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+      <h3>🌐Operating Systems:</h3>
+        <img src="https://openlitespeed.org/wp-content/uploads/2022/11/openlitespeed-icon.png" alt="Victor Basso"  height="40"/>
+        <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Victor Basso" width="40" height="40"/>
+      </div>
+    </td>
+  </tr>
+</table>
+<div align="center">
+    <h3  align="center">Social Networks and Contacts</h3> 
+    <table align="center">
+      <tr>
+        <td>
+          <div>
+            <a href="https://www.linkedin.com/in/victor-basso-b3090a189/">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+            </a>
+            <a href="mailto:victorbassodev@gmail.com">
+                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+            </a>
+            <a href="https://api.whatsapp.com/send/?phone=5511999978633&text=Ol%C3%A1%21+Aqui+%C3%A9+o+Victor+Basso%2C+programador+fullstack+e+webdesigner.+Estou+dispon%C3%ADvel+para+conversar+sobre+seus+projetos+e+ideias+para+a+web.+Obrigado%21&type=phone_number&app_absent=0">
+                <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+            </a>
+            <a href="https://portfolio-victor-basso-dev.vercel.app/#Porfolio">
+                <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+            </a>
+        </div>
+        </td>
+      </tr>
+    </table>
+</div>
