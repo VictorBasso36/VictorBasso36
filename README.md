@@ -2,7 +2,7 @@
 <div align="center">
    <h1  align="center">Hi 👋🏼 ! I'm Victor Basso ! </h1> 
   <h2  align="center">a <span style="color: magenta;">Fullstack developer</span> and an idea generator.</h2>
-  <img src="https://portfolio-victor-basso-dev.vercel.app/_next/image?url=%2Fsticker.webp&w=3840&q=75" alt="Victor Basso" width="140" height="140"/>
+  <img src="https://portfolio-victor-basso-dev.vercel.app/_next/image?url=%2Fsticker.png&w=3840&q=75" alt="Victor Basso" width="140" height="140"/>
 </div>
 <table align="center">
   <tr>
@@ -69,9 +69,7 @@
             <a href="https://api.whatsapp.com/send/?phone=5511999978633&text=Ol%C3%A1%21+Aqui+%C3%A9+o+Victor+Basso%2C+programador+fullstack+e+webdesigner.+Estou+dispon%C3%ADvel+para+conversar+sobre+seus+projetos+e+ideias+para+a+web.+Obrigado%21&type=phone_number&app_absent=0">
                 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
             </a>
-            <a href="https://portfolio-victor-basso-dev.vercel.app/#Porfolio">
-                <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-            </a>
+           
         </div>
         </td>
       </tr>
