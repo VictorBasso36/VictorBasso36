@@ -69,7 +69,6 @@
             <a href="https://api.whatsapp.com/send/?phone=5511999978633&text=Ol%C3%A1%21+Aqui+%C3%A9+o+Victor+Basso%2C+programador+fullstack+e+webdesigner.+Estou+dispon%C3%ADvel+para+conversar+sobre+seus+projetos+e+ideias+para+a+web.+Obrigado%21&type=phone_number&app_absent=0">
                 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
             </a>
-           
         </div>
         </td>
       </tr>
