@@ -2,7 +2,7 @@
 <div align="center">
    <h1  align="center">Hi 👋🏼 ! I'm Victor Basso ! </h1> 
   <h2  align="center">a <span style="color: magenta;">Fullstack developer</span> and an idea generator.</h2>
-  <img src="https://giphy.com/embed/JqmupuTVZYaQX5s094" alt="Victor Basso" width="140" height="140"/>
+  <img src="https://portfolio-victor-basso-dev.vercel.app/_next/image?url=%2Fsticker.png&w=3840&q=75" alt="Victor Basso" width="140" height="140"/>
 </div>
 <table align="center">
   <tr>
