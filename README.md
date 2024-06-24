@@ -4,9 +4,6 @@
   <h2  align="center">a <span style="color: magenta;">Fullstack developer</span> and an idea generator.</h2>
 </div>
 
-[![VictorBasso36 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorBasso36&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 - Back-End
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,nodejs,express,prisma,graphql,nest,vitest,postgres,docker,azure,aws,mongodb,mysql,linux)](https://skillicons.dev)
