@@ -10,7 +10,7 @@
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,next,react,next,figma,css,html,photoshop)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,next,react,figma,css,html,photoshop)](https://skillicons.dev)
 
 
 <div align="center">  
