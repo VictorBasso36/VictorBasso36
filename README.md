@@ -6,7 +6,7 @@
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,nodejs,express,prisma,graphql,nest,vitest,postgres,docker,azure,aws,mongodb,mysql,linux)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,nodejs,express,prisma,graphql,nest,vitest,postgres,docker,azure,aws,mongodb,mysql,linux,jest)](https://skillicons.dev)
 
 - Front-End
 
