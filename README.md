@@ -2,61 +2,24 @@
 <div align="center">
    <h1  align="center">Hi 👋🏼 ! I'm Victor Basso ! </h1> 
   <h2  align="center">a <span style="color: magenta;">Fullstack developer</span> and an idea generator.</h2>
-  <img src="https://portfolio-victor-basso-dev.vercel.app/_next/image?url=%2Fsticker.png&w=3840&q=75" alt="Victor Basso" width="140" height="140"/>
 </div>
+
+[![VictorBasso36 activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorBasso36&bg_color=0d1117&color=0097A7&line=6ED8E5&point=0097A7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,nodejs,express,prisma,graphql,nest,vitest,postgres,docker,azure,aws,mongodb,mysql,linux)](https://skillicons.dev)
+
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,next,react,next,figma,css,html,photoshop)](https://skillicons.dev)
+
+
+<div align="center">  
+  
+## <b> Contact me!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="85">
 <table align="center">
-  <tr>
-    <td>
-      <div align="center">
-        <h3>📚Programming language:</h3>
-         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NB1H5S1P--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/140/Typescript_logo_2020.svg.png" alt="Victor Basso" width="40" height="40"/>
-         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--fC8GTFme--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/16/js-badge.png" alt="Victor Basso" width="44" height="44"/>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <h3>👨🏻‍🎨Front-end:</h3>
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G5pvxBp3--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/89/next-js-badge.png" alt="Victor Basso" width="40" height="40"/>
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--TxWa49eH--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/26/react-sticker.png" alt="Victor Basso" width="40" height="40"/>
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1doNXX_7--/c_limit,f_auto,fl_progressive,q_80,w_192/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/29/graphql-sticker.png" alt="Victor Basso" width="40" height="40"/>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-      <h3>🖥️Back-end:</h3>
-        <img src="https://i0.wp.com/chandanbhagat.com.np/wp-content/uploads/2021/05/1200px-Node.js_logo.svg_.png?resize=640%2C391" alt="Victor Basso" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="Victor Basso" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        <h3>💾Database:</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png" alt="Victor Basso" width="40" height="40"/>
-        <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="Victor Basso"  height="40"/>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-      <h3>🎨Design UI|UX:</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Victor Basso"  height="40"/>
-        <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="Victor Basso"  height="40"/>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-      <h3>🌐Operating Systems:</h3>
-        <img src="https://openlitespeed.org/wp-content/uploads/2022/11/openlitespeed-icon.png" alt="Victor Basso"  height="40"/>
-        <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="Victor Basso" width="40" height="40"/>
-      </div>
-    </td>
-  </tr>
-</table>
-<div align="center">
-    <h3  align="center">Social Networks and Contacts</h3> 
-    <table align="center">
       <tr>
         <td>
           <div>
@@ -74,3 +37,7 @@
       </tr>
     </table>
 </div>
+
+<br>
+<div align="center">  
+
