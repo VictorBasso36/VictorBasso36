@@ -6,11 +6,11 @@
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,nodejs,express,prisma,graphql,nest,vitest,postgres,docker,azure,aws,mongodb,mysql,linux,jest,redis)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,github,nodejs,express,prisma,graphql,nest,postgres,docker,azure,aws,mongodb,mysql,linux,jest,redis)](https://skillicons.dev)
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,next,react,figma,css,html,photoshop)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,next,react,figma,css,html,photoshop,vite)](https://skillicons.dev)
 
 
 <div align="center">  
