@@ -36,5 +36,11 @@
 </div>
 
 <br>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/VictorBasso36/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
 <div align="center">  
 
