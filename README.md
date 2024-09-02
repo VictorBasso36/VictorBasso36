@@ -15,7 +15,8 @@
 
 <div align="center">  
   
-## <b> Contact me!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="85">
+<h3 align="center"> Contact me!</h3>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="85">
 <table align="center">
       <tr>
         <td>
@@ -38,14 +39,14 @@
 <br>
 
 
-   <p align="center">
+   <div align="center">
       <h3  align="center">☝️ visitor counter: </h3> 
-   </p>
-   <p align="center">
+   </div>
+   <div align="center">
      <img
        src="https://profile-counter.glitch.me/VictorBasso36/count.svg"
        alt="Ilustração do número de visitantes no perfil"
      />
-   </p>
+   </div>
 
 
