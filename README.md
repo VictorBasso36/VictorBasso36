@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 <div align="center">
    <h1  align="center">Hi 👋🏼 ! I'm Victor Basso ! </h1> 
   <h2  align="center">a <span style="color: magenta;">Fullstack developer</span> and an idea generator.</h2>
@@ -49,4 +49,4 @@
      />
    </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
