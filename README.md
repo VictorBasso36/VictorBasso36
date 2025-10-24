@@ -38,15 +38,4 @@
 
 <br>
 
-
-   <div align="center">
-      <h3  align="center">☝️ visitor counter: </h3> 
-   </div>
-   <div align="center">
-     <img
-       src="https://profile-counter.glitch.me/VictorBasso36/count.svg"
-       alt="Ilustração do número de visitantes no perfil"
-     />
-   </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1351B4&height=120&section=footer"/>
