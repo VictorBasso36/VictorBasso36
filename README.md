@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/VictorBasso36">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=1351B4&center=true&vCenter=true&width=780&lines=Senior+Software+Engineer+%C2%B7+Generalist;Tech+Lead+%40+Calriz+%E2%80%94+S%C3%A3o+Paulo%2C+Brazil;End-to-end+delivery%3A+idea+%E2%86%92+architecture+%E2%86%92+production;Cloud%2C+Infrastructure+as+Code+and+everything+in+between;AI-driven+development+and+autonomous+agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=1351B4&center=true&vCenter=true&width=780&lines=Senior+Software+Engineer+%C2%B7+Generalist;Tech+Lead+%C2%B7+S%C3%A3o+Paulo%2C+Brazil;End-to-end+delivery%3A+idea+%E2%86%92+architecture+%E2%86%92+production;Cloud%2C+Infrastructure+as+Code+and+everything+in+between;AI-driven+development+and+autonomous+agents" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,13 +31,13 @@
 
 ### 👋 About me
 
-I'm a **Senior Software Engineer** with a **generalist** profile, currently **Tech Lead at Calriz**. I don't stop at the boundary of a single layer: I design, build, ship and operate **end-to-end solutions** — from the first conversation about the problem, through architecture and code, all the way to infrastructure, deployment and production.
+I'm a **Senior Software Engineer** with a **generalist** profile, currently working as a **Tech Lead**. I don't stop at the boundary of a single layer: I design, build, ship and operate **end-to-end solutions** — from the first conversation about the problem, through architecture and code, all the way to infrastructure, deployment and production.
 
 Leading a team gave me depth in **system design and technical leadership**, but I stayed **hands-on**. Today a big part of my work is bringing **AI agents and automation into the software lifecycle** — accelerating delivery without giving up architectural quality.
 
 ```yaml
 role:      Senior Software Engineer (Generalist) · Tech Lead
-company:   Calriz — São Paulo, Brazil
+based in:  São Paulo, Brazil
 delivery:  end-to-end — discovery → architecture → code → infra → production
 strengths: [ backend, frontend, cloud, IaC, AI engineering, product thinking ]
 mindset:   own the problem, not just the ticket
@@ -66,20 +66,6 @@ I don't just *use* AI — I **build with it and for it**:
 
 > Modern software engineering takes more than code — it takes the ability to orchestrate AI tooling to speed up delivery without losing architectural quality.
 
-### 🏆 Highlight
-
-**SEDAP+** — education data platform built at Calriz with **RNP** and **INEP**.
-🥈 **2nd place, ABEP-TIC Digital Government Award 2026.** Turning complex data into real progress for education in Brazil.
-
-### 🧭 Experience
-
-| Period | Role | Where |
-|---|---|---|
-| **Dec 2024 — now** | Tech Lead | **Calriz** · São Paulo (remote) |
-| **Aug 2024 — now** | Software Engineer | **Calriz** — GCP, Node.js |
-| **Jun 2023 — Aug 2024** | Full Stack Developer | **Tecsomobi** — ticketing & urban mobility, serverless microservices, NestJS/React, AWS Lambda, Azure Pipelines |
-| **Sep 2021 — Jun 2023** | Full Stack Developer & Web/App Designer | **Arqué.lab** — Next.js, GraphQL, AWS, UI/UX and SEO |
-
 ### 🎓 Education & certifications
 
 - **FIAP** — Technology Degree in Systems Analysis and Development *(2024 — 2026)*
@@ -101,13 +87,13 @@ Got an idea, a stalled project or a problem nobody wants to own? **Send me a mes
 
 ### 👋 Sobre mim
 
-Sou **Engenheiro de Software Sênior** com perfil **generalista**, atualmente **Tech Lead na Calriz**. Não paro na fronteira de uma única camada: eu desenho, construo, entrego e opero **soluções end-to-end** — da primeira conversa sobre o problema, passando por arquitetura e código, até infraestrutura, deploy e produção.
+Sou **Engenheiro de Software Sênior** com perfil **generalista**, atualmente atuando como **Tech Lead**. Não paro na fronteira de uma única camada: eu desenho, construo, entrego e opero **soluções end-to-end** — da primeira conversa sobre o problema, passando por arquitetura e código, até infraestrutura, deploy e produção.
 
 Liderar time me deu profundidade em **design de sistemas e liderança técnica**, mas mantive minha essência **hands-on**. Hoje boa parte do meu trabalho é levar **agentes de IA e automação para o ciclo de vida do software** — acelerando a entrega sem abrir mão da qualidade arquitetural.
 
 ```yaml
 cargo:       Engenheiro de Software Sênior (Generalista) · Tech Lead
-empresa:     Calriz — São Paulo, Brasil
+localização: São Paulo, Brasil
 entrega:     end-to-end — discovery → arquitetura → código → infra → produção
 forças:      [ backend, frontend, cloud, IaC, engenharia de IA, visão de produto ]
 mentalidade: dono do problema, não apenas da tarefa
@@ -135,20 +121,6 @@ Eu não apenas *uso* IA — eu **construo com ela e para ela**:
 - **Integração com LLMs**: streaming, saída estruturada, controle de custo e observabilidade
 
 > A engenharia de software moderna exige mais do que código — exige a capacidade de orquestrar ferramentas de IA para acelerar a entrega sem perder qualidade arquitetural.
-
-### 🏆 Destaque
-
-**SEDAP+** — plataforma de dados para a educação, construída na Calriz junto com a **RNP** e o **INEP**.
-🥈 **2º lugar no Prêmio ABEP-TIC de Governo Digital 2026.** Transformando dados complexos em progresso real para a educação do país.
-
-### 🧭 Experiência
-
-| Período | Cargo | Onde |
-|---|---|---|
-| **dez 2024 — hoje** | Tech Lead | **Calriz** · São Paulo (remoto) |
-| **ago 2024 — hoje** | Engenheiro de Software | **Calriz** — GCP, Node.js |
-| **jun 2023 — ago 2024** | Desenvolvedor Full Stack | **Tecsomobi** — bilhetagem e mobilidade urbana, microsserviços serverless, NestJS/React, AWS Lambda, Azure Pipelines |
-| **set 2021 — jun 2023** | Desenvolvedor Full Stack e Web/App Designer | **Arqué.lab** — Next.js, GraphQL, AWS, UI/UX e SEO |
 
 ### 🎓 Formação & certificações
 
@@ -216,24 +188,87 @@ Tem uma ideia, um projeto travado ou um problema que ninguém quer assumir? **Me
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBasso36&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBasso36&layout=compact&hide_border=true&theme=default&langs_count=8"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBasso36&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages"/>
-</picture>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorBasso36&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+## ⚡ Live activity &nbsp;·&nbsp; Atividade ao vivo
 
 </div>
+
+<img src="assets/pipeline.svg" width="100%" alt="End-to-end delivery pipeline animation"/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorBasso36/VictorBasso36/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorBasso36/VictorBasso36/output/github-snake.svg"/>
+  <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/VictorBasso36/VictorBasso36/output/github-snake.svg" width="100%"/>
+</picture>
+
+<sub>🐍 my contribution grid, eaten daily by a snake rendered on GitHub Actions &nbsp;·&nbsp; meu grid de contribuições, devorado diariamente por uma cobra renderizada no GitHub Actions</sub>
+
+<br/><br/>
+
+**👇 Click a tab to open it &nbsp;·&nbsp; Clique em uma aba para abrir**
+
+</div>
+
+<details open>
+<summary><b>&nbsp;📈&nbsp; Overview &nbsp;·&nbsp; Visão geral</b></summary>
+<br/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
+</picture>
+</div>
+</details>
+
+<details>
+<summary><b>&nbsp;🧪&nbsp; Languages &nbsp;·&nbsp; Linguagens</b></summary>
+<br/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBasso36&layout=compact&hide_border=true&theme=tokyonight&langs_count=10"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBasso36&layout=compact&hide_border=true&theme=default&langs_count=10"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBasso36&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="Top Languages"/>
+</picture>
+</div>
+</details>
+
+<details>
+<summary><b>&nbsp;🔥&nbsp; Streak &nbsp;·&nbsp; Sequência</b></summary>
+<br/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VictorBasso36&hide_border=true&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=VictorBasso36&hide_border=true&theme=default"/>
+  <img src="https://streak-stats.demolab.com?user=VictorBasso36&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+</picture>
+</div>
+</details>
+
+<details>
+<summary><b>&nbsp;📅&nbsp; Contribution graph &nbsp;·&nbsp; Gráfico de contribuições</b></summary>
+<br/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorBasso36&theme=tokyo-night&hide_border=true&area=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorBasso36&theme=github-light&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorBasso36&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</picture>
+</div>
+</details>
+
+<details>
+<summary><b>&nbsp;🏆&nbsp; Trophies &nbsp;·&nbsp; Troféus</b></summary>
+<br/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=VictorBasso36&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=VictorBasso36&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VictorBasso36&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+</picture>
+</div>
+</details>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%"/>
 
