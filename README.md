@@ -192,7 +192,17 @@ Tem uma ideia, um projeto travado ou um problema que ninguém quer assumir? **Me
 
 </div>
 
-<img src="assets/pipeline.svg" width="100%" alt="End-to-end delivery pipeline animation"/>
+<div align="center">
+
+[![Open the interactive canvas](https://img.shields.io/badge/%E2%96%B6%20%20Open%20the%20interactive%20canvas-0D1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF&labelColor=0D1117)](https://victorbasso36.github.io/VictorBasso36/)
+
+<sub>🖱️ real canvas, real mouse interaction &nbsp;·&nbsp; canvas de verdade, com interação pelo mouse</sub>
+
+</div>
+
+<a href="https://victorbasso36.github.io/VictorBasso36/">
+  <img src="assets/pipeline.svg" width="100%" alt="End-to-end delivery pipeline animation — click to open the interactive version"/>
+</a>
 
 <div align="center">
 
