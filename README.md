@@ -188,21 +188,22 @@ Tem uma ideia, um projeto travado ou um problema que ninguém quer assumir? **Me
 
 <div align="center">
 
-## ⚡ Live activity &nbsp;·&nbsp; Atividade ao vivo
-
-</div>
-
-<div align="center">
-
-[![Open the interactive canvas](https://img.shields.io/badge/%E2%96%B6%20%20Open%20the%20interactive%20canvas-0D1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF&labelColor=0D1117)](https://victorbasso36.github.io/VictorBasso36/)
-
-<sub>🖱️ real canvas, real mouse interaction &nbsp;·&nbsp; canvas de verdade, com interação pelo mouse</sub>
+## 🔮 Live raymarching &nbsp;·&nbsp; Raymarching ao vivo
 
 </div>
 
 <a href="https://victorbasso36.github.io/VictorBasso36/">
-  <img src="assets/pipeline.svg" width="100%" alt="End-to-end delivery pipeline animation — click to open the interactive version"/>
+  <img src="assets/raymarch.webp" width="100%" alt="WebGL2 raymarching demo — click to open the live interactive version"/>
 </a>
+
+<div align="center">
+
+[![Open the live demo](https://img.shields.io/badge/%E2%96%B6%20%20Open%20the%20live%20demo-0D1117?style=for-the-badge&logo=webgl&logoColor=58A6FF&labelColor=0D1117)](https://victorbasso36.github.io/VictorBasso36/)
+
+<sub>Signed distance fields, soft shadows and ambient occlusion, raymarched in real time on the GPU.<br/>
+🖱️ Move the mouse to orbit &nbsp;·&nbsp; click to switch scene &nbsp;&nbsp;|&nbsp;&nbsp; Mova o mouse para orbitar &nbsp;·&nbsp; clique para trocar de cena</sub>
+
+</div>
 
 <div align="center">
 
