@@ -214,71 +214,7 @@ Tem uma ideia, um projeto travado ou um problema que ninguém quer assumir? **Me
 
 <sub>🐍 my contribution grid, eaten daily by a snake rendered on GitHub Actions &nbsp;·&nbsp; meu grid de contribuições, devorado diariamente por uma cobra renderizada no GitHub Actions</sub>
 
-<br/><br/>
-
-**👇 Click a tab to open it &nbsp;·&nbsp; Clique em uma aba para abrir**
-
 </div>
-
-<details open>
-<summary><b>&nbsp;📈&nbsp; Overview &nbsp;·&nbsp; Visão geral</b></summary>
-<br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorBasso36&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats"/>
-</picture>
-</div>
-</details>
-
-<details>
-<summary><b>&nbsp;🧪&nbsp; Languages &nbsp;·&nbsp; Linguagens</b></summary>
-<br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBasso36&layout=compact&hide_border=true&theme=tokyonight&langs_count=10"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBasso36&layout=compact&hide_border=true&theme=default&langs_count=10"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBasso36&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="Top Languages"/>
-</picture>
-</div>
-</details>
-
-<details>
-<summary><b>&nbsp;🔥&nbsp; Streak &nbsp;·&nbsp; Sequência</b></summary>
-<br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VictorBasso36&hide_border=true&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=VictorBasso36&hide_border=true&theme=default"/>
-  <img src="https://streak-stats.demolab.com?user=VictorBasso36&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
-</picture>
-</div>
-</details>
-
-<details>
-<summary><b>&nbsp;📅&nbsp; Contribution graph &nbsp;·&nbsp; Gráfico de contribuições</b></summary>
-<br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorBasso36&theme=tokyo-night&hide_border=true&area=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorBasso36&theme=github-light&hide_border=true&area=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorBasso36&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-</picture>
-</div>
-</details>
-
-<details>
-<summary><b>&nbsp;🏆&nbsp; Trophies &nbsp;·&nbsp; Troféus</b></summary>
-<br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=VictorBasso36&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=VictorBasso36&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=VictorBasso36&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
-</picture>
-</div>
-</details>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%"/>
 
